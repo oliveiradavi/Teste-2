@@ -1,0 +1,169 @@
+body{
+		margin:0;
+		padding:0;
+		background:#e6e6e6;
+		font-family: 'Dosis', sans-serif;
+}
+	
+li{
+	text-decoration: none;
+}
+
+img {
+	max-width:100%;
+	height:auto;
+	margin:0;
+}
+	
+#container {
+	max-width:1345px;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+#banner {
+	display: block;
+    margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#logo {
+	margin-right: 135px;
+}
+
+.toponormal {
+	width:100%;
+}
+
+nav.toponormal {
+	background-color: #ed1c24;	
+	font-size: 14px;
+}
+
+nav.toponormal img {
+	margin-top:25px;
+}
+
+ul.toponormal li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 15px 30px 15px;
+    text-decoration: none;
+}
+
+ul.toponormal li:last-child{
+    margin:28px 0 0 15px;
+}
+
+
+ul.toponormal li.icon {
+    display: none;
+  }
+
+#pesquisar {
+	margin-left: 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+	padding:0 0 0 15px;
+    overflow: hidden;
+}
+nav li {
+    float: left;
+}
+
+
+nav.segundomenu {
+	background-color: #242424;
+	font-size: 12px;
+}
+
+#maisacessados {
+	float:left;
+	margin-right: 30px;
+}
+
+.segundomenu ul {
+	padding:0;
+}
+
+.segundomenu ul li {
+	padding: 5px 30px 0 0;
+}
+
+ul.segundomenu li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 0;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+background-color:#4CAF50;
+}
+
+div.imagemprincipal {
+	margin-top:10px;
+	margin-bottom:20px;
+	background-color:black;
+	width:45.5%;
+	float:left;
+}
+
+.imagemprincipal img {
+	width:100%;	
+}
+
+div.imagens{
+	background-color:black;
+	width:54.5%;
+	float:left;
+	margin-top:10px;
+}
+
+.imagens img {
+	width:50%;	
+	float:left;
+	padding:0;
+	margin:0;
+}
+
+div .imagensbottom {
+	float:left;
+	margin-top: 0;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+.imagensbottom img {
+	float:left;
+	width:24.625%;
+	margin-right: 0.5%;
+}
+
+.imagensbottom img:last-child{
+	margin-right: 0;
+}
+
+.hide {
+	display:block;
+}
+
+
+
+
+
+
+
+
+
